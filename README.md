@@ -9,4 +9,4 @@ Here is a little something about me:
 - I am currently working on this script: https://github.com/diyaa59/Wireguard-iptables
 - I am going to college soon to start my long journey in Information Security and dive into software developement!
 - My dream is to be able to read or write code that runs on linux!
-- I am allergic to Microsoft related products.
+- I am allergic to Microsoft related products just like `mkdir` is allergic to spaces 🙂 .
