@@ -2,7 +2,7 @@
 
 Here is a little something about me:
 
-- I learned a lot about Linux in during my four years in high school.
+- I learned a lot about Linux during my four years in high school.
 - I fell in love with Debian and it has been the best operating system I have ever tried so far.
 - I cannot express my interest in bash scripting in words; My relationship with bash is just indescribable.
 - I am learning how to use python.
