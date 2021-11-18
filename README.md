@@ -2,6 +2,7 @@
 
 Here is a little something about me:
 
+- I value my privacy and the privacy of others in every step I take.
 - I learned a lot about Linux during my four years in high school, and I am still learning more about it.
 - I fell in love with Debian, and it has been the best operating system I have ever tried so far.
 - I cannot express my interest in bash scripting in words; My relationship with bash is just indescribable.
